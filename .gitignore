@@ -1,0 +1,10 @@
+bin/
+dist/
+*.exe
+*.dll
+*.so
+*.dylib
+vendor/
+.idea/
+.vscode/
+.wallets/
